@@ -1,4 +1,4 @@
-public class Tugas3b {
+public class MenghitungNilaiAkhir {
     public static void main(String[] args) {
         //input
         int uts = 75;
@@ -16,5 +16,5 @@ public class Tugas3b {
         //output
         System.out.println("Nilai Akhir Anda: "+ String.format("%.2f",NA));
     
-}
+    }
 }
